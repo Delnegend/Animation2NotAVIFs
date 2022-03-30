@@ -1,6 +1,7 @@
 from os import chdir, listdir, system, remove
 from os.path import isfile, join
 from shutil import move
+from pathlib import Path
 
 def sign(text):
     print("="*80)
@@ -8,6 +9,8 @@ def sign(text):
     print("="+"      "+text)
     print("=\n"*2+"=")
     print("="*80)
+
+Path("./output").mkdir(parents=True, exist_ok=True)
 
 chdir("./input")
 # List all files
