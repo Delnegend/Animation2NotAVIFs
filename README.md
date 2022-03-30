@@ -10,6 +10,9 @@
   - Run `python run-me.py`
   - Output file(s) will be in `output` folder
 
+- Notes:
+  - Height is limited to 1080px because having a high resolution is possible, but not practice.
+
 - Browser support
 
   |         | Chrome | Firefox          | Edge | Brave | Vivaldi | Opera |
