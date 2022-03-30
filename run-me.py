@@ -11,6 +11,7 @@ def sign(text):
     print("="*80)
 
 Path("./output").mkdir(parents=True, exist_ok=True)
+Path("./input").mkdir(parents=True, exist_ok=True)
 
 chdir("./input")
 # List all files
