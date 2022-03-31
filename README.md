@@ -15,8 +15,12 @@
 
 - Browser support
 
-  |         | Chrome | Firefox          | Edge | Brave | Vivaldi | Opera |
-  |---------|--------|------------------|------|-------|---------|-------|
-  | PC      | ✅      | Show still image | ❎    |       |         |       |
-  | Android | ✅      | ❎                |      |       |         | ✅     |
-  | iOS     |        |                  |      |       |         |       |
+  |         | PC      | Android  |
+  |---------|---------|----------|
+  | Chrome  | 100 ✔️  | 100 ✔️   |
+  | Firefox | ⚠️1     | 98 ❌     |
+  | Edge    | 99 ❌    | 99 ❌     |
+  | Brave   | 1.37 ✔️ | 1.36 ✔️  |
+  | Vivaldi | 5.1 ✔️  | 5.1 ✔️   |
+  | Opera   | 85 ✔️   | 68 ✔️    |
+  | OperaGX | 84 ✔️   | 1.5.9 ✔️ |
