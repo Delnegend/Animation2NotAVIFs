@@ -24,3 +24,5 @@
   | Vivaldi | 5.1 ✔️  | 5.1 ✔️   |
   | Opera   | 85 ✔️   | 68 ✔️    |
   | OperaGX | 84 ✔️   | 1.5.9 ✔️ |
+
+  ⚠️1: only shows a still image
